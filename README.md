@@ -1,6 +1,8 @@
 # Personal Website
 [Demo Website](https://kagari0803.github.io/personal-website/)  
-✔️RWD(only on big and medium screen)
+✔️RWD(only on big and medium screen)    
+
+🏆Selected as an outstanding work in 多媒體程式設計 class
 
 ## Description
 It's the first website I made as homework in 2019. It shows my personal information, interests, and goals.
